@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="SAMPA" parent="AppTheme">
+        <item name="colorAccent">@android:color/holo_green_dark</item>
+        <item name="colorPrimaryDark">@color/colorPrimary</item>
+        <item name="android:colorBackground">@android:color/darker_gray</item>
+        <item name="android:windowBackground">@color/colorLightGray</item>
+    </style>
+</resources>

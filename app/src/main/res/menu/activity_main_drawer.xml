@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/Beranda"
+            android:icon="@drawable/ic_home"
+            android:title="Beranda" />
+        <item
+            android:id="@+id/Jual"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Jual" />
+        <item
+            android:id="@+id/EduSampa"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Edu-Sampa" />
+        <item
+            android:id="@+id/BankSampah"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Bank Sampah" />
+        <item
+            android:id="@+id/Informasi"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Informasi" />
+        <item
+            android:id="@+id/Berita"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Berita" />
+        <item
+            android:id="@+id/Akun"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Akun" />
+        <item
+            android:id="@+id/Pengaturan"
+            android:icon="@drawable/ic_settings_"
+            android:title="Pengaturan" />
+        <item
+            android:id="@+id/Tentang"
+            android:icon="@drawable/ic_info"
+            android:title="Tentang" />
+    </group>
+
+</menu>
